@@ -19,6 +19,7 @@
   color: white;
   font-size: 18px;
   font-family: 'Open Sans', sans-serif;
+  text-align: justify;
 }
 .slider{
   width: 100%;
@@ -26,4 +27,11 @@
 }
 body{
   background-color: #392916;
+}
+.img{
+  width: 350px;
+  height: 350px;
+  margin-left: 90px;
+  margin-right: 40px;
+  margin-top: 30px;
 }
