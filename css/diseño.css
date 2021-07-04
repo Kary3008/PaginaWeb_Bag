@@ -20,6 +20,7 @@
   font-size: 18px;
   font-family: 'Open Sans', sans-serif;
   text-align: justify;
+  line-height: 1.5em;
 }
 .slider{
   width: 100%;
@@ -52,6 +53,22 @@ body{
   height: 350px;
   margin-left: 20px;
   margin-right: 20px;
-  margin-top: 3px;
   margin-bottom: 10px;
+}
+.footer{
+  background-color: #8bb169;
+  height: 70px;
+  width: 100%;
+  margin-top: 2px;
+}
+.pie1{
+  padding-top: 20px;
+  margin-left: 50px;
+  text-align: left;
+  font-family: 'Open Sans', sans-serif;
+  color: #000;
+  font-size: 18px;
+}
+.pie2{
+  align-items: right;
 }
